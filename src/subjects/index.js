@@ -6,7 +6,7 @@ class Subjects extends Component {
         return (
             <div className="container-fluid subjects">
                 <p className="mt-3">Best SEO Company in India</p>
-                <h3>Why US for SEO Services ?</h3>
+                <h3>Why Choose Us for SEO Services?</h3>
                 <div className="row">
                     <div className="col-xs-12 col-md-4">
                         <div className="subCard">
